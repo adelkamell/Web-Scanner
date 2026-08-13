@@ -162,25 +162,42 @@ Unclosed quotation marks
 
 ### 📈 Future Enhancements
 Version 4 Roadmap
+
 □ Support for POST-based SQLi/LFI
+
 □ Custom payload lists for all vulnerability types
+
 □ Advanced evasion techniques
+
 □ Multi-threaded scanning
+
 □ DOM-based XSS detection
+
 □ More comprehensive error pattern database
+
 □ Database fingerprinting
+
 □ Boolean-based blind SQLi detection
+
 □ XXE (XML External Entity) detection
 
 
 ### Long-term Vision
+
 □ Full crawling capabilities
+
 □ Authentication support (cookies/sessions)
+
 □ Report generation (HTML/JSON)
+
 □ CI/CD pipeline integration
+
 □ Docker container support
+
 □ API endpoint scanning
+
 □ Command injection detection
+
 □ SSRF (Server-Side Request Forgery) detection
 
 
