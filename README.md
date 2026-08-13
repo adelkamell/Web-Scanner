@@ -118,47 +118,47 @@ Oracle errors (ORA-)
 Unclosed quotation marks
 
 ### ⚠️ Disclaimer
-This tool is for educational and authorized testing purposes only.
+- This tool is for educational and authorized testing purposes only.
 
-Only use on websites you own or have explicit permission to test
+- Only use on websites you own or have explicit permission to test
 
-Unauthorized scanning may be illegal
+- Unauthorized scanning may be illegal
 
-The developers assume no liability for misuse
+- The developers assume no liability for misuse
 
-Always obtain written permission before scanning
+- Always obtain written permission before scanning
 
-Time-based attacks may impact server performance
+- Time-based attacks may impact server performance
 
 ### 🔒 Security Best Practices
-Always obtain written permission before scanning
+- Always obtain written permission before scanning
 
-Test in isolated environments when possible
+- Test in isolated environments when possible
 
-Use responsibly and ethically
+- Use responsibly and ethically
 
-Document all testing activities
+- Document all testing activities
 
-Report vulnerabilities responsibly
+- Report vulnerabilities responsibly
 
-Avoid using time-based tests on production systems
+- Avoid using time-based tests on production systems
 
 ### 🚧 Current Limitations
-Only tests form parameters (no URL parameter scanning for SQLi/LFI)
+- Only tests form parameters (no URL parameter scanning for SQLi/LFI)
 
-Limited payload sets
+- Limited payload sets
 
-No WAF bypass techniques
+- No WAF bypass techniques
 
-No crawling capabilities
+- No crawling capabilities
 
-No authentication/session support
+- No authentication/session support
 
-Single-threaded scanning
+- Single-threaded scanning
 
-Limited error pattern database
+- Limited error pattern database
 
-No report generation
+- No report generation
 
 ### 📈 Future Enhancements
 Version 4 Roadmap
@@ -172,6 +172,7 @@ Version 4 Roadmap
 □ Boolean-based blind SQLi detection
 □ XXE (XML External Entity) detection
 
+
 ### Long-term Vision
 □ Full crawling capabilities
 □ Authentication support (cookies/sessions)
@@ -181,6 +182,8 @@ Version 4 Roadmap
 □ API endpoint scanning
 □ Command injection detection
 □ SSRF (Server-Side Request Forgery) detection
+
+
 
 ### 🤝 Contributing
 Contributions are welcome! Please follow these steps:
@@ -195,16 +198,19 @@ Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
+
+
+
 ### Contribution Guidelines
-Follow PEP 8 style guide
+- Follow PEP 8 style guide
 
-Add comments for complex logic
+- Add comments for complex logic
 
-Include error handling
+- Include error handling
 
-Update documentation accordingly
+- Update documentation accordingly
 
-Test on multiple platforms
+- Test on multiple platforms
 
 ### 🙏 Acknowledgments
 BeautifulSoup - For HTML parsing capabilities
