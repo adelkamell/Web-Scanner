@@ -200,9 +200,8 @@ Version 4 Roadmap
 
 □ SSRF (Server-Side Request Forgery) detection
 
-
-
 ### 🤝 Contributing
+
 Contributions are welcome! Please follow these steps:
 
 Fork the repository
@@ -215,10 +214,8 @@ Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-
-
-
 ### Contribution Guidelines
+
 - Follow PEP 8 style guide
 
 - Add comments for complex logic
